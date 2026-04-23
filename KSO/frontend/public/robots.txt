@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /analytics
+Disallow: /orientation
+Disallow: /accompaniment
+Disallow: /guidance
+Disallow: /chat
+Disallow: /schools
+Disallow: /students
+Disallow: /grades
+Disallow: /superadmin
+
+Sitemap: https://kso-frontend.onrender.com/sitemap.xml
